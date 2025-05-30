@@ -1,7 +1,7 @@
 <h2>Freehit EU: Watch Live Cricket Streaming for Free</h2>
 <p>Welcome to Freehit EU, your go-to platform for free live cricket streaming. Watch IPL &ndash; Indian Premier League, Pakistan Super League &ndash; PSL, ICC tournaments, and T20 leagues in HD without subscriptions.</p>
 <h2>What is Freehit EU?</h2>
-<p>Freehit EU is a free online platform for cricket fans. It streams live matches, including international games and domestic leagues like the Indian Premier League (IPL), Pakistan Super League (PSL), and Big Bash League (BBL).</p>
+<p><a href="https://freehiteu.net">Freehit EU</a> is a free online platform for cricket fans. It streams live matches, including international games and domestic leagues like the Indian Premier League (IPL), Pakistan Super League (PSL), and Big Bash League (BBL).</p>
 <p>You don&rsquo;t need to sign up or pay. The platform uses external streams to deliver high-quality video (720p to 480p) based on your internet speed. It&rsquo;s compatible with smartphones, tablets, laptops, and smart TVs.</p>
 <h2><strong>Why Choose FreehitEU?</strong></h2>
 <ul>
