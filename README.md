@@ -22,14 +22,14 @@
 <h2>How to Stream on Freehit EU</h2>
 <p>Follow these simple steps to start streaming:</p>
 <ol>
-<li>Visit <a href="https://freehiteu.net">Freehit EU</a>.</li>
+<li>Visit <a href="https://freehiteu.net/live/">Freehit</a>.</li>
 <li>Browse the homepage for live matches or use the search bar.</li>
 <li>Select a match and choose your stream quality (HD or SD).</li>
 <li>Enjoy the game with real-time scores and commentary.</li>
 </ol>
 <p>For Android users, download the Freehit EU APK:</p>
 <ol>
-<li>Go to <a href="https://freehiteu.net">freehiteu</a>.</li>
+<li>Go to freehiteu.net</li>
 <li>Download the APK file.</li>
 <li>Enable &ldquo;Unknown Sources&rdquo; in your device settings.</li>
 <li>Install and open the app to stream.</li>
