@@ -14,7 +14,7 @@
 <p>Freehit EU offers a wide range of cricket content:</p>
 <ul>
 <li><strong>International Matches</strong>: ICC Cricket World Cup, T20 World Cup, and Asia Cup.</li>
-<li><strong>T20 Leagues</strong>: <a href="https://freehiteu.net/indian-premier-league/"> IPL</a>, <a href="https://freehiteu.net/pakistan-super-league/"> IPL</a>, BBL, Caribbean Premier League (CPL), and Lanka Premier League (LPL).</li>
+<li><strong>T20 Leagues</strong>: <a href="https://freehiteu.net/indian-premier-league/"> IPL</a>, <a href="https://freehiteu.net/pakistan-super-league/"> PSL</a>, BBL, Caribbean Premier League (CPL), and Lanka Premier League (LPL).</li>
 <li><strong>Test and ODI Series</strong>: <a href="https://freehiteu.net/wtc-final/"> WTC Final</a>, The Ashes, India vs. Australia, Pakistan vs. New Zealand.</li>
 <li><strong>Women&rsquo;s Cricket</strong>: Women&rsquo;s T20 World Cup and Women&rsquo;s Big Bash League (WBBL).</li>
 <li><strong>Highlights and Replays</strong>: Catch up on key moments or full matches.</li>
